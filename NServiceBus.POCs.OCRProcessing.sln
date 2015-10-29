@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCRClient", "OCRClient\OCRClient.csproj", "{2BAE49FD-A18C-447F-B056-52EBD4C315D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicEngine", "LogicEngine\LogicEngine.csproj", "{4675DBB4-D24A-4D4F-9310-5EDC646AC06B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCRMessages", "OCRMessages\OCRMessages.csproj", "{8790E68F-82A0-425F-8625-BA8249CD6D44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCRManager", "OCRManager\OCRManager.csproj", "{1F186912-748D-472E-A880-020FB8C0450D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCRWorker", "OCRWorker\OCRWorker.csproj", "{AD3FF0D9-3E39-42E4-83EF-2CE4CC760168}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BAE49FD-A18C-447F-B056-52EBD4C315D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BAE49FD-A18C-447F-B056-52EBD4C315D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BAE49FD-A18C-447F-B056-52EBD4C315D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BAE49FD-A18C-447F-B056-52EBD4C315D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4675DBB4-D24A-4D4F-9310-5EDC646AC06B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4675DBB4-D24A-4D4F-9310-5EDC646AC06B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4675DBB4-D24A-4D4F-9310-5EDC646AC06B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4675DBB4-D24A-4D4F-9310-5EDC646AC06B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8790E68F-82A0-425F-8625-BA8249CD6D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8790E68F-82A0-425F-8625-BA8249CD6D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8790E68F-82A0-425F-8625-BA8249CD6D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8790E68F-82A0-425F-8625-BA8249CD6D44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F186912-748D-472E-A880-020FB8C0450D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F186912-748D-472E-A880-020FB8C0450D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F186912-748D-472E-A880-020FB8C0450D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F186912-748D-472E-A880-020FB8C0450D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD3FF0D9-3E39-42E4-83EF-2CE4CC760168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD3FF0D9-3E39-42E4-83EF-2CE4CC760168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD3FF0D9-3E39-42E4-83EF-2CE4CC760168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD3FF0D9-3E39-42E4-83EF-2CE4CC760168}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
